@@ -1,3 +1,4 @@
+#### Russian:
 #### 🔋 New Update Bug fixes / Обновление, теперь проект собирается из коробки стабильно, все методы стиллинга в разных файлах и папках для удобства. Больше не требует установки NuGet пакетов. DotNetZip.dll прямов ресусрах.
 
 + Cтабильно стал собирать все данные, без пропусков
@@ -5,6 +6,15 @@
 + Почищен от АВ
 + Некоторые строки теперь зашифрованны
 + Добавлена повторая проверка и зачистка следов прибывания
+
+#### English:
+Update, now the project is going out of the box stably, all methods of styling in different files and folders for convenience. No longer requires installing NuGet packages. DotNetZip.dll direct resources.
+
++ Stable began to collect all data, without gaps
++ Fixed data collection from Opera browser
++ Cleaned from AB
++ Some lines are now encrypted
++ Added a second check and cleaning of traces of arrival
 
 #### ☣️ Stealer with sending logs to Telegram bot / Стилер с отправкой лога в телеграм бота
 ![](http://dl4.joxi.net/drive/2020/05/01/0039/3040/2595808/08/9239ba3967.jpg)
