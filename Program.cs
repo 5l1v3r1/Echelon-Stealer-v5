@@ -15,7 +15,7 @@ namespace Echelon
     class Program
     {
         #region Settings Stealer
-        // Уникальный идентификатор билда, опционально
+        // Уникальный идентификатор билда, опционально.
         public static string buildversion = "V5 MyBuild"; 
 
         //Токен бота в телеге, создать бота и получить токен тут: @BotFather
