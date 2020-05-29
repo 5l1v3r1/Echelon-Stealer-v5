@@ -1,10 +1,10 @@
 [![Watch the video](http://dl3.joxi.net/drive/2020/05/17/0039/3040/2595808/08/6f59a25570.jpg)](https://youtu.be/Jm6KrLGDBho)
 
-#### The project is no longer supported by me, This is the latest release..
+#### The project is no longer maintained by me, This is the last release.
 #### Проект мною больше не поддерживается, Это последний релиз.
 
 #### Russian:
-#### 🔋 New Update Bug fixes / Обновление, теперь проект собирается из коробки стабильно, все методы стиллинга в разных файлах и папках для удобства. Больше не требует установки NuGet пакетов. DotNetZip.dll прямов ресусрах.
+#### 🔋 New Update:  Bug fixes / Обновление, теперь проект собирается из коробки стабильно, все методы стиллинга в разных файлах и папках для удобства. Больше не требует установки NuGet пакетов. DotNetZip.dll прямов ресусрах.
 
 + Cтабильно стал собирать все данные, без пропусков
 + Исправлен сбор данных из Opera browser
@@ -13,20 +13,20 @@
 + Добавлена повторая проверка и зачистка следов прибывания
 
 #### English:
-Update, now the project is going out of the box stably, all methods of styling in different files and folders for convenience. No longer requires installing NuGet packages. DotNetZip.dll direct resources.
+Update: now the project can work out of box, all methods of stealing data in different files and folders for convenience. It no longer requires installing NuGet packages. DotNetZip.dll is placed in resources.
 
-+ Stable began to collect all data, without gaps
-+ Fixed data collection from Opera browser
++ Stable collect all data, without skipping one
++ Fixed data collection for Opera browser
 + Cleaned from AB
-+ Some lines are now encrypted
-+ Added a second check and cleaning of traces of arrival
++ Some lines are encrypted now
++ Added a second check and cleaning of traces of getting
 
 #### ☣️ Stealer with sending logs to Telegram bot / Стилер с отправкой лога в телеграм бота
 ![](http://dl4.joxi.net/drive/2020/05/01/0039/3040/2595808/08/9239ba3967.jpg)
 ![](https://antiscan.me/images/result/RPkjsJH4jRTa.png)
 
 ### Stealer Functionality
-+ All based browsers Chromium, Edge, Gecko (Mozilla Firefox)
++ All bacic browsers Chromium, Edge, Gecko (Mozilla Firefox)
 + Clipboard data
 + Discord Session
 + Telegram Session
@@ -60,8 +60,8 @@ Update, now the project is going out of the box stably, all methods of styling i
 + Log Resubmission Protection
 
  + ❗️ Написан исключительно в образовательных целях! Я не несу ответственности за использование данного проекта и любых его частей кода.
- + ❗️ Written exclusively for educational purposes! I am not responsible for the use of this project and any of its parts code.
+ + ❗️ Written exclusively for educational purposes! I am not responsible for the use of this project and any parts of it.
 
-### Support paid
+### Donation
 Telegram: @madcod
 BTC: 1JHgjtUed6xD1j9ybRbbXv4ejwRbBiabBG
